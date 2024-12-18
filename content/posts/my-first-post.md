@@ -9,4 +9,6 @@ title = 'My First Post'
 
 Just testing out this whole **HUGO** *thing*. Hello
 
+Adding this new bit
+
 [some link](https://www.github.com/kstocky)
